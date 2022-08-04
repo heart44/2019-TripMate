@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "502281071643",
+    "firebase_url": "https://tripmate-381bc.firebaseio.com",
+    "project_id": "tripmate-381bc",
+    "storage_bucket": "tripmate-381bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502281071643:android:c1a04303a29b66980ddcbe",
+        "android_client_info": {
+          "package_name": "com.example.tripmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502281071643-aonpm0pckiefoi1lghhqg8edor2kaj0p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tripmate",
+            "certificate_hash": "116d001f3e2468a3b724594e6ecb96b974a68502"
+          }
+        },
+        {
+          "client_id": "502281071643-hgghrem08p9bvse66b331rb42hkt4p41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9wEMsQURNAdiISfGUHZOjD0nynLwcHAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502281071643-hgghrem08p9bvse66b331rb42hkt4p41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
